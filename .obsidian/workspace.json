@@ -11,11 +11,10 @@
             "id": "c1ba86a43243e22c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "收藏夹/GitHub链接.md",
-                "mode": "source",
-                "source": false
+                "staged": false
               }
             }
           }
@@ -69,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "40633d5756db2c29",
@@ -86,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "收藏夹/GitHub链接.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "收藏夹/GitHub链接.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "收藏夹/GitHub链接.md"
-              }
+              "state": {}
             }
           },
           {
