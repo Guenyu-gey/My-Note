@@ -11,8 +11,12 @@
             "id": "c1ba86a43243e22c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "收藏夹/GitHub链接.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "40633d5756db2c29",
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "收藏夹/GitHub链接.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "收藏夹/GitHub链接.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "收藏夹/GitHub链接.md"
+              }
             }
           },
           {
@@ -143,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 772.5
+    "width": 471.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +164,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "55f36f88150b4b56",
+  "active": "c1ba86a43243e22c",
   "lastOpenFiles": [
+    "收藏夹/GitHub链接.md",
+    "收藏夹",
     "git.md",
     "测试2.md"
   ]
